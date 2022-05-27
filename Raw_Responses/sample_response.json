@@ -1,0 +1,1678 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3766, Samantarapur, Old Town, Bhubaneswar, Odisha 751002, India",
+        "geometry": {
+            "location": {
+                "lat": 20.227027,
+                "lng": 85.8409882
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.22840297989272,
+                    "lng": 85.84242582989272
+                },
+                "southwest": {
+                    "lat": 20.22570332010728,
+                    "lng": 85.83972617010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tata Power Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107954162111158796747\">Subikash Rath</a>"
+                ],
+                "photo_reference": "Aap_uED2LyntM1LZ93UJL2WoGDjYy_rKDOcU8_xUmHdjfd3duV9zYRs78GAGjBGd_brnwcqOoGHN3sZTnmR6VBE6P9CpkyyblPkZRdc3lzZ_Q8TVXq_WVku4NPEtMY4ei7dbmAqGqdU7wx7B0qpzWxz-epAONQsg0cVg2bV4ClbG4mHA5cup",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ8S-bSU-nGToRXDQ9AqWUdEg",
+        "plus_code": {
+            "compound_code": "6RGR+R9 Bhubaneswar, Odisha",
+            "global_code": "7MG76RGR+R9"
+        },
+        "rating": 4,
+        "reference": "ChIJ8S-bSU-nGToRXDQ9AqWUdEg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5, 2, NH 44, Lavakusha Nagar, Pragathi Nagar, Electronic City, Bengaluru, Karnataka 560100, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8651627,
+                "lng": 77.65785679999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.86649967989272,
+                    "lng": 77.65920627989273
+                },
+                "southwest": {
+                    "lat": 12.86380002010728,
+                    "lng": 77.65650662010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Recharge Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ59Ol8qZsrjsRuiAbHpr8Rmk",
+        "plus_code": {
+            "compound_code": "VM85+24 Bengaluru, Karnataka",
+            "global_code": "7J4VVM85+24"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ59Ol8qZsrjsRuiAbHpr8Rmk",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "The Forum Mall, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9346426,
+                "lng": 77.61130469999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.93580922989272,
+                    "lng": 77.61280907989273
+                },
+                "southwest": {
+                    "lat": 12.93310957010728,
+                    "lng": 77.61010942010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Zeon Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110964410581245781032\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEDq0rb7aI8JzKkHvKgRbt_-EPzn3-DQv0q_6Ve5rcyrIPv_lYWU_3qiYpjkI0QczTGoZieJ0pNlm7LdIa88S8OHRAnTKeiHw3kMLiX2yOrjXrNxDGQpm4t3unyVELnsEabGuv74XihOAQ_7L6LbVNhuRkHtHcFi_bJ_9mrjtjzGs5MR",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJNdrWePEVrjsRIKZ5msD1RDw",
+        "plus_code": {
+            "compound_code": "WJM6+VG Bengaluru, Karnataka",
+            "global_code": "7J4VWJM6+VG"
+        },
+        "rating": 4.9,
+        "reference": "ChIJNdrWePEVrjsRIKZ5msD1RDw",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4GQ8+F6C, Nianmunha, Odisha 752056, India",
+        "geometry": {
+            "location": {
+                "lat": 20.1386885,
+                "lng": 85.5155087
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.14000017989272,
+                    "lng": 85.51684727989272
+                },
+                "southwest": {
+                    "lat": 20.13730052010728,
+                    "lng": 85.51414762010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJEzVRJZ5RGDoR9GcUwBugqzA",
+        "rating": 5,
+        "reference": "ChIJEzVRJZ5RGDoR9GcUwBugqzA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "7Q8G+8C7, Haladiyapadar Auto Nagar Inside Of Ruchi Dhaba, NH16, Brahmapur, Odisha, India",
+        "geometry": {
+            "location": {
+                "lat": 19.265795,
+                "lng": 84.7760349
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.26712582989272,
+                    "lng": 84.77742447989273
+                },
+                "southwest": {
+                    "lat": 19.26442617010728,
+                    "lng": 84.77472482010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJs_ujCnJbPToR_1Ey3EZPSOc",
+        "rating": 4,
+        "reference": "ChIJs_ujCnJbPToR_1Ey3EZPSOc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "7RFW+MQ6, Railway Yard and Washing Line, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2741623,
+                "lng": 85.8469008
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.27551822989272,
+                    "lng": 85.84815807989271
+                },
+                "southwest": {
+                    "lat": 20.27281857010728,
+                    "lng": 85.84545842010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102626985977627893593\">saswat sourav Panda</a>"
+                ],
+                "photo_reference": "Aap_uEBExOGJsKzxfW89V9fmamDcfKgjyK1BIohumlYUplQUULuRldFtDEGgARmo3_vA90MfPCRCZshI0zsh_B0ZbPHZRkx9y3UiAGnfYY2NoUkmhuliOQHiEYaefyGAfophJE7VE3OeJLCcuGN-NiP70f2plAS7Oe1IJafndqWhS-mt7D9z",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJhaImRiinGToRFceaQbbPzdE",
+        "rating": 5,
+        "reference": "ChIJhaImRiinGToRFceaQbbPzdE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "279, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2901307,
+                "lng": 85.8474197
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.29143667989272,
+                    "lng": 85.8487748298927
+                },
+                "southwest": {
+                    "lat": 20.28873702010728,
+                    "lng": 85.84607517010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJbcA_jfgJGToRjOj8KauA3Ko",
+        "plus_code": {
+            "compound_code": "7RRW+3X Bhubaneswar, Odisha",
+            "global_code": "7MG77RRW+3X"
+        },
+        "rating": 0,
+        "reference": "ChIJbcA_jfgJGToRjOj8KauA3Ko",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2058, NH16, Beherasahi, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2891254,
+                "lng": 85.81525049999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.29053452989272,
+                    "lng": 85.81656587989272
+                },
+                "southwest": {
+                    "lat": 20.28783487010728,
+                    "lng": 85.81386622010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106624150389486995670\">Narendra Kumar</a>"
+                ],
+                "photo_reference": "Aap_uEAFyyTkaffGd8KvSTDABc-A9evRuE5SRGz8dSEHJlWWdRb6uzyI72510tv7NGXT6JJvt586rOVQMDkoPsQDb1-7JkUTNVbOA4bLXioaqZFSTX7Al0La5YhO7Z4jxdq90sTPfizLBh-2JcZeAlD6WwfrU_xqfb2VQMQzHrpvPlNmFijk",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJu3USHdEJGToRXIokatE-MFA",
+        "plus_code": {
+            "compound_code": "7RQ8+M3 Bhubaneswar, Odisha",
+            "global_code": "7MG77RQ8+M3"
+        },
+        "rating": 4,
+        "reference": "ChIJu3USHdEJGToRXIokatE-MFA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "103, Gopalkrushna Ln, Gajapati Nagar, Puri, Odisha 752002, India",
+        "geometry": {
+            "location": {
+                "lat": 19.8134609,
+                "lng": 85.8362516
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.81482382989272,
+                    "lng": 85.83763537989272
+                },
+                "southwest": {
+                    "lat": 19.81212417010728,
+                    "lng": 85.83493572010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "G.K Rickshaw",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114256357593055749351\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEAxiWjuUA4bz81Aa4XbXtO1k_dscaM7J28BZlD3JLyfypxrmF0Lfudwxz35d1mX1mJ9HD-IySAo5dNE0ms_P7wIZWyMxqvFsQRAo9BOuFDFW0zxsfbmV-tIDW38a_RHQL_PDRdtMvnhHSVzafEQVuoqXYVNfrnX1du0_i7PgDa9p74v",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJJ5vLyaXGGToRz72TuRd_lPM",
+        "plus_code": {
+            "compound_code": "RR7P+9G Puri, Odisha",
+            "global_code": "7MF7RR7P+9G"
+        },
+        "rating": 4.8,
+        "reference": "ChIJJ5vLyaXGGToRz72TuRd_lPM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Tamando Bazar, Tamando, Bijipur, Odisha 752054, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2379618,
+                "lng": 85.7500127
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.23933047989272,
+                    "lng": 85.75138947989274
+                },
+                "southwest": {
+                    "lat": 20.23663082010728,
+                    "lng": 85.74868982010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106422069293120423066\">Soumya Ranjan Behera</a>"
+                ],
+                "photo_reference": "Aap_uECzQuyXhykhyo88PBhW-L2K4PzyEQq2jDqNEg0NKwW8IRjMAur1IwDEEic7asEjzBNpvHq2LyGlH0uz15RfKUn8IxXeJLmoL6ItOeCOXTW5UoUGedNDH0FgKiQpze-5y9WGrFdSoREg7ojxZ_4UQ1U2X8V37wYloH_n-TN0yQKU6Mvg",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJmaUBUd-pGToRbeoyyeiKXKQ",
+        "plus_code": {
+            "compound_code": "6QQ2+52 Tamando, Bhubaneswar, Odisha",
+            "global_code": "7MG76QQ2+52"
+        },
+        "rating": 5,
+        "reference": "ChIJmaUBUd-pGToRbeoyyeiKXKQ",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Basement 2, DN Regalia, Patrapada, Bhubaneswar, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2410085,
+                "lng": 85.7583217
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.24240187989272,
+                    "lng": 85.75964637989273
+                },
+                "southwest": {
+                    "lat": 20.23970222010727,
+                    "lng": 85.75694672010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tata Power Charging Station",
+        "photos": [
+            {
+                "height": 4624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107362677466807431459\">Subrat Kumar Gumansingh</a>"
+                ],
+                "photo_reference": "Aap_uEAOruk-Lxrlg_XYNt2x-Guv_oMq1P1tJJDyOoMB-IUz5PCyXcK9-CEErnpiTic3U14VuuBipM1n3BsRAlcx6dHQmuTGyZeHgujCqhW9LIt6rRJBpRJWh6FKD2cQ3wH3dXkQgJWjaoT_7W8Xgs3MDkxJxcWWq_SHx8ND41d5z_TEq_g",
+                "width": 3472
+            }
+        ],
+        "place_id": "ChIJt0Z6YX6pGToRjvHaD7VTDeQ",
+        "plus_code": {
+            "compound_code": "6QR5+C8 Bhubaneswar, Odisha",
+            "global_code": "7MG76QR5+C8"
+        },
+        "rating": 0,
+        "reference": "ChIJt0Z6YX6pGToRjvHaD7VTDeQ",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "QRXG+RG4, Puri, Odisha 752001, India",
+        "geometry": {
+            "location": {
+                "lat": 19.7994938,
+                "lng": 85.82635739999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.80085972989272,
+                    "lng": 85.82760847989272
+                },
+                "southwest": {
+                    "lat": 19.79816007010728,
+                    "lng": 85.82490882010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "KACHERI SECTION TPCODL",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJK3KdZDPFGToRIQExKfAGgrM",
+        "rating": 4.1,
+        "reference": "ChIJK3KdZDPFGToRIQExKfAGgrM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Plot No 785, NH16, Pratap Nagari, Urali, Odisha 753011, India",
+        "geometry": {
+            "location": {
+                "lat": 20.4052375,
+                "lng": 85.8796557
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.40663657989272,
+                    "lng": 85.88113557989271
+                },
+                "southwest": {
+                    "lat": 20.40393692010728,
+                    "lng": 85.87843592010726
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "TATA Charging Station",
+        "place_id": "ChIJg5n70VwMGToRGRQrmS91tsc",
+        "plus_code": {
+            "compound_code": "CV4H+3V Urali, Odisha",
+            "global_code": "7MG7CV4H+3V"
+        },
+        "rating": 5,
+        "reference": "ChIJg5n70VwMGToRGRQrmS91tsc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "C3CR+94F, Kesannagar, Odisha 754130, India",
+        "geometry": {
+            "location": {
+                "lat": 20.4209459,
+                "lng": 86.0903038
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.42237312989272,
+                    "lng": 86.09163647989271
+                },
+                "southwest": {
+                    "lat": 20.41967347010728,
+                    "lng": 86.08893682010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "kesannager electric office",
+        "place_id": "ChIJI7VACYNwGToRLEDo-XJI74U",
+        "rating": 2,
+        "reference": "ChIJI7VACYNwGToRLEDo-XJI74U",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "136/1, 17th Main Rd, BTM 2nd Stage, Kuvempu Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560029, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9140634,
+                "lng": 77.6106798
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.91538267989272,
+                    "lng": 77.61203447989273
+                },
+                "southwest": {
+                    "lat": 12.91268302010728,
+                    "lng": 77.60933482010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJ886-1XUVrjsRZzZ9aqQSjqo",
+        "plus_code": {
+            "compound_code": "WJ76+J7 Bengaluru, Karnataka",
+            "global_code": "7J4VWJ76+J7"
+        },
+        "rating": 0,
+        "reference": "ChIJ886-1XUVrjsRZzZ9aqQSjqo",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "M458+7W8, Badshahi Rd, Bharchhan, Odisha 754296, India",
+        "geometry": {
+            "location": {
+                "lat": 20.6581671,
+                "lng": 86.11731379999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.65980762989272,
+                    "lng": 86.11820842989272
+                },
+                "southwest": {
+                    "lat": 20.65710797010728,
+                    "lng": 86.11550877010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJJ7OFl41nGToR46OGu9q0pm4",
+        "rating": 0,
+        "reference": "ChIJJ7OFl41nGToR46OGu9q0pm4",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Tech Pvt Ltd, #33/5 Charzera, Ebenezer Church Rd, Narayana Reddy Layout, Electronic City Phase II, Bengaluru, Karnataka 560100, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8519201,
+                "lng": 77.67270990000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.85327637989272,
+                    "lng": 77.67400017989273
+                },
+                "southwest": {
+                    "lat": 12.85057672010728,
+                    "lng": 77.67130052010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Charzer Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103811076809835087720\">SURAJ SINGH</a>"
+                ],
+                "photo_reference": "Aap_uEApxDZ4neUaKzLR0TzOUb4kXYKUOWghvR7B0zWchg1zDYwlLs3DIPiysI3WVu7NpVT6XAQv0eSVa2M8xj8Hkar5ovg0hVa0PQtyz5oH8-bsq274scJO_Czc2AayM-artk8wJ5CsUbwCaZ8GXDY7WUzRTsDa6hwGc5yLHnEgI17uh-ij",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJzV2aUsxtrjsRMtac9lZDt4k",
+        "plus_code": {
+            "compound_code": "VM2F+Q3 Bengaluru, Karnataka",
+            "global_code": "7J4VVM2F+Q3"
+        },
+        "rating": 5,
+        "reference": "ChIJzV2aUsxtrjsRMtac9lZDt4k",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "19, 7th Main, 3rd Cross Rd, Pappya Reddy Layout, Hongasandra, Bengaluru, Karnataka 560068, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8951903,
+                "lng": 77.6332931
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.89654622989272,
+                    "lng": 77.63462342989273
+                },
+                "southwest": {
+                    "lat": 12.89384657010728,
+                    "lng": 77.63192377010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105321797943848621716\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEBPNmkDimopRHdOAdv_R1PvaRgKVgAB242bM3LGxZkE65YEZH0SbzmfPqiwkgHwqe-qSpkvudJVd178QdpJQPWuLMxopwOa0TTaYl9F27-no8m7pO3IqWxuYkDGUky4xkP6YN2hZlafPqsDAmAoNPHknWb0qet3_cjwB11YpXPDuNOP",
+                "width": 358
+            }
+        ],
+        "place_id": "ChIJE6x-GoQVrjsRMG_wmKoawBU",
+        "plus_code": {
+            "compound_code": "VJWM+38 Bengaluru, Karnataka",
+            "global_code": "7J4VVJWM+38"
+        },
+        "rating": 0,
+        "reference": "ChIJE6x-GoQVrjsRMG_wmKoawBU",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "11, 17th F Cross Road, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9787563,
+                "lng": 77.6331015
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.98010507989272,
+                    "lng": 77.63448432989271
+                },
+                "southwest": {
+                    "lat": 12.97740542010728,
+                    "lng": 77.63178467010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Charzer Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 302,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103448783555613638630\">AKANKSHA CHANDA</a>"
+                ],
+                "photo_reference": "Aap_uEB2XwI2iZNsrIuXUrE1KHHsOaSocCOeXSqNefpQAVT4oZEtzs4Xw2NC974PcJlKOmJbE1906Sxg3cXK8LeTxrLTp4UUo66mXLDh9n8G7YXIEFU0n4MsbufjHccEU-qR87WXepQKsotmqGu7XR-CJM4n2TlB7V7cq2ZHmsA4z9EQD1UN",
+                "width": 499
+            }
+        ],
+        "place_id": "ChIJW62R3QMXrjsRnK3JAfYqisA",
+        "plus_code": {
+            "compound_code": "XJHM+G6 Bengaluru, Karnataka",
+            "global_code": "7J4VXJHM+G6"
+        },
+        "rating": 0,
+        "reference": "ChIJW62R3QMXrjsRnK3JAfYqisA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1070, 27th Main Rd, Putlanpalya, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+        "geometry": {
+            "location": {
+                "lat": 12.918853,
+                "lng": 77.594394
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.92020162989272,
+                    "lng": 77.59577732989271
+                },
+                "southwest": {
+                    "lat": 12.91750197010728,
+                    "lng": 77.59307767010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Shiva gowri",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJubmZ55gVrjsRQ1cbchT55Jg",
+        "plus_code": {
+            "compound_code": "WH9V+GQ Bengaluru, Karnataka",
+            "global_code": "7J4VWH9V+GQ"
+        },
+        "rating": 0,
+        "reference": "ChIJubmZ55gVrjsRQ1cbchT55Jg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3766, Samantarapur, Old Town, Bhubaneswar, Odisha 751002, India",
+        "geometry": {
+            "location": {
+                "lat": 20.227027,
+                "lng": 85.8409882
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.22840297989272,
+                    "lng": 85.84242582989272
+                },
+                "southwest": {
+                    "lat": 20.22570332010728,
+                    "lng": 85.83972617010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tata Power Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107954162111158796747\">Subikash Rath</a>"
+                ],
+                "photo_reference": "Aap_uEA_K6GMvoI1EBj9uFsd61VWKu-cZv0EJiWV-w31rz7tbbq-XN0qxjrP69TF3S4dJPgzI_Cw6QL_KMCc-xSLkjgt7NZADS19m3qJ-4XvTSFvFOlPDr_Sl_EPD1eUMnFJSqSXM226AZ6AKsg4ZNk-ENk26zk56sfSLqzNEo4egny4bhxr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ8S-bSU-nGToRXDQ9AqWUdEg",
+        "plus_code": {
+            "compound_code": "6RGR+R9 Bhubaneswar, Odisha",
+            "global_code": "7MG76RGR+R9"
+        },
+        "rating": 4,
+        "reference": "ChIJ8S-bSU-nGToRXDQ9AqWUdEg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5, 2, NH 44, Lavakusha Nagar, Pragathi Nagar, Electronic City, Bengaluru, Karnataka 560100, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8651627,
+                "lng": 77.65785679999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.86649967989272,
+                    "lng": 77.65920627989273
+                },
+                "southwest": {
+                    "lat": 12.86380002010728,
+                    "lng": 77.65650662010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Recharge Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ59Ol8qZsrjsRuiAbHpr8Rmk",
+        "plus_code": {
+            "compound_code": "VM85+24 Bengaluru, Karnataka",
+            "global_code": "7J4VVM85+24"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ59Ol8qZsrjsRuiAbHpr8Rmk",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "The Forum Mall, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9346426,
+                "lng": 77.61130469999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.93580922989272,
+                    "lng": 77.61280907989273
+                },
+                "southwest": {
+                    "lat": 12.93310957010728,
+                    "lng": 77.61010942010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Zeon Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110964410581245781032\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEAhtbbiu79uDowvSUqr-956POne5_fV22C5iZzUvc17dKD-6GfknoHN5XaoeNl0ttsjTLmlZuYgPwFqag8zD4BihPFupExjRbQbwwrMrN0uQipAYL6EDUjK8vR5WrpTuLFQKBUoQlQad48SOG_YAH81SbGrR5gIX57w4m0Qh0pvk5_V",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJNdrWePEVrjsRIKZ5msD1RDw",
+        "plus_code": {
+            "compound_code": "WJM6+VG Bengaluru, Karnataka",
+            "global_code": "7J4VWJM6+VG"
+        },
+        "rating": 4.9,
+        "reference": "ChIJNdrWePEVrjsRIKZ5msD1RDw",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4GQ8+F6C, Nianmunha, Odisha 752056, India",
+        "geometry": {
+            "location": {
+                "lat": 20.1386885,
+                "lng": 85.5155087
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.14000017989272,
+                    "lng": 85.51684727989272
+                },
+                "southwest": {
+                    "lat": 20.13730052010728,
+                    "lng": 85.51414762010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJEzVRJZ5RGDoR9GcUwBugqzA",
+        "rating": 5,
+        "reference": "ChIJEzVRJZ5RGDoR9GcUwBugqzA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "7Q8G+8C7, Haladiyapadar Auto Nagar Inside Of Ruchi Dhaba, NH16, Brahmapur, Odisha, India",
+        "geometry": {
+            "location": {
+                "lat": 19.265795,
+                "lng": 84.7760349
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.26712582989272,
+                    "lng": 84.77742447989273
+                },
+                "southwest": {
+                    "lat": 19.26442617010728,
+                    "lng": 84.77472482010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJs_ujCnJbPToR_1Ey3EZPSOc",
+        "rating": 4,
+        "reference": "ChIJs_ujCnJbPToR_1Ey3EZPSOc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "7RFW+MQ6, Railway Yard and Washing Line, Kharvela Nagar, Bhubaneswar, Odisha 751001, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2741623,
+                "lng": 85.8469008
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.27551822989272,
+                    "lng": 85.84815807989271
+                },
+                "southwest": {
+                    "lat": 20.27281857010728,
+                    "lng": 85.84545842010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102626985977627893593\">saswat sourav Panda</a>"
+                ],
+                "photo_reference": "Aap_uEDaEMKKR6Hql0COuzT-MVaxwAMkKtwmdIiKUTmTRriZsbGJRlP4xgRmTEklA3UIBfHF4pHCfTum9jAgza7fr6yG7GDcqsTXQ5JSYv83emivQhJjGy7o6zouVOxeVr2I7UdvRUQN5J7Zkx5CD0ZfPRiIMIv89NsqO8S1tuXAdzK8I8vK",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJhaImRiinGToRFceaQbbPzdE",
+        "rating": 5,
+        "reference": "ChIJhaImRiinGToRFceaQbbPzdE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "279, Rupali St, Saheed Nagar, Bhubaneswar, Odisha 751007, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2901307,
+                "lng": 85.8474197
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.29143667989272,
+                    "lng": 85.8487748298927
+                },
+                "southwest": {
+                    "lat": 20.28873702010728,
+                    "lng": 85.84607517010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJbcA_jfgJGToRjOj8KauA3Ko",
+        "plus_code": {
+            "compound_code": "7RRW+3X Bhubaneswar, Odisha",
+            "global_code": "7MG77RRW+3X"
+        },
+        "rating": 0,
+        "reference": "ChIJbcA_jfgJGToRjOj8KauA3Ko",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2058, NH16, Beherasahi, Nilakantha Nagar, Nayapalli, Bhubaneswar, Odisha 751012, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2891254,
+                "lng": 85.81525049999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.29053452989272,
+                    "lng": 85.81656587989272
+                },
+                "southwest": {
+                    "lat": 20.28783487010728,
+                    "lng": 85.81386622010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106624150389486995670\">Narendra Kumar</a>"
+                ],
+                "photo_reference": "Aap_uEDmK4HJEFxcg4FhMROfjlCF4UlOZRPQAeHlJNJBvuh_Vkkso0dTPLkylItnfjaIrJY0HfxVzP2FkxX4_GcOiHOoY_D8rgY7tD-1WYUXvQPe9mygi6SdD_1FVOh8ee5u8mU9mof10htw3wupyWuFqTZGpCepFUcvtfB5ZsZKNF4CUqZ-",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJu3USHdEJGToRXIokatE-MFA",
+        "plus_code": {
+            "compound_code": "7RQ8+M3 Bhubaneswar, Odisha",
+            "global_code": "7MG77RQ8+M3"
+        },
+        "rating": 4,
+        "reference": "ChIJu3USHdEJGToRXIokatE-MFA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "103, Gopalkrushna Ln, Gajapati Nagar, Puri, Odisha 752002, India",
+        "geometry": {
+            "location": {
+                "lat": 19.8134609,
+                "lng": 85.8362516
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.81482382989272,
+                    "lng": 85.83763537989272
+                },
+                "southwest": {
+                    "lat": 19.81212417010728,
+                    "lng": 85.83493572010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "G.K Rickshaw",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114256357593055749351\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEBQFT96jtJhUH-rWort68OZBY3rAFInksawnkVPfSRJNwRD3JWBYRsqBizXUG5rKkyET81ojpIlLi1EduJ_gTRE5mwNbs51UnFXSO5b35QryH2t16-SfaUvrVscrn5c2ASTLV0y-7_hIuT-HnttlAepd0a9Asfjfu-kQBWxgVoss819",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJJ5vLyaXGGToRz72TuRd_lPM",
+        "plus_code": {
+            "compound_code": "RR7P+9G Puri, Odisha",
+            "global_code": "7MF7RR7P+9G"
+        },
+        "rating": 4.8,
+        "reference": "ChIJJ5vLyaXGGToRz72TuRd_lPM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Tamando Bazar, Tamando, Bijipur, Odisha 752054, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2379618,
+                "lng": 85.7500127
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.23933047989272,
+                    "lng": 85.75138947989274
+                },
+                "southwest": {
+                    "lat": 20.23663082010728,
+                    "lng": 85.74868982010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106422069293120423066\">Soumya Ranjan Behera</a>"
+                ],
+                "photo_reference": "Aap_uEAClw1U5itBcUpt7xWPOsR5ibYVV6YP5a6BJB75RU7Iaj5T2J4P90xUGSH847GIJh6p31DmjUjcChctfkM0yuFwXPmXRV18AwFPMDgodju-enGMBhB0Gd3cApstR_1TDiK9yVoSdu6huB1ydCJOWz8Xg2CRQQEmcyYXDZQrdt2Kgj-Z",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJmaUBUd-pGToRbeoyyeiKXKQ",
+        "plus_code": {
+            "compound_code": "6QQ2+52 Tamando, Bhubaneswar, Odisha",
+            "global_code": "7MG76QQ2+52"
+        },
+        "rating": 5,
+        "reference": "ChIJmaUBUd-pGToRbeoyyeiKXKQ",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Basement 2, DN Regalia, Patrapada, Bhubaneswar, India",
+        "geometry": {
+            "location": {
+                "lat": 20.2410085,
+                "lng": 85.7583217
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.24240187989272,
+                    "lng": 85.75964637989273
+                },
+                "southwest": {
+                    "lat": 20.23970222010727,
+                    "lng": 85.75694672010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tata Power Charging Station",
+        "photos": [
+            {
+                "height": 4624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107362677466807431459\">Subrat Kumar Gumansingh</a>"
+                ],
+                "photo_reference": "Aap_uEBdenQsKGgnnszS40_6M2LFCtKjFdZWkhgzIkKFitLr3wdBt4S_qU5AXtaD1NfytxTL1QVeZhfo0Vd3pqz1zYO-AyL5wkc_Xv1ZKYmNQyeKAMWQfTL9iigw6HI5JD_W98xuhCkmPklK-7aiOB-22_h3F8l0jDh93gBYyndUGkso-kE",
+                "width": 3472
+            }
+        ],
+        "place_id": "ChIJt0Z6YX6pGToRjvHaD7VTDeQ",
+        "plus_code": {
+            "compound_code": "6QR5+C8 Bhubaneswar, Odisha",
+            "global_code": "7MG76QR5+C8"
+        },
+        "rating": 0,
+        "reference": "ChIJt0Z6YX6pGToRjvHaD7VTDeQ",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "QRXG+RG4, Puri, Odisha 752001, India",
+        "geometry": {
+            "location": {
+                "lat": 19.7994938,
+                "lng": 85.82635739999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 19.80085972989272,
+                    "lng": 85.82760847989272
+                },
+                "southwest": {
+                    "lat": 19.79816007010728,
+                    "lng": 85.82490882010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "KACHERI SECTION TPCODL",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJK3KdZDPFGToRIQExKfAGgrM",
+        "rating": 4.1,
+        "reference": "ChIJK3KdZDPFGToRIQExKfAGgrM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Plot No 785, NH16, Pratap Nagari, Urali, Odisha 753011, India",
+        "geometry": {
+            "location": {
+                "lat": 20.4052375,
+                "lng": 85.8796557
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.40663657989272,
+                    "lng": 85.88113557989271
+                },
+                "southwest": {
+                    "lat": 20.40393692010728,
+                    "lng": 85.87843592010726
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "TATA Charging Station",
+        "place_id": "ChIJg5n70VwMGToRGRQrmS91tsc",
+        "plus_code": {
+            "compound_code": "CV4H+3V Urali, Odisha",
+            "global_code": "7MG7CV4H+3V"
+        },
+        "rating": 5,
+        "reference": "ChIJg5n70VwMGToRGRQrmS91tsc",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "C3CR+94F, Kesannagar, Odisha 754130, India",
+        "geometry": {
+            "location": {
+                "lat": 20.4209459,
+                "lng": 86.0903038
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.42237312989272,
+                    "lng": 86.09163647989271
+                },
+                "southwest": {
+                    "lat": 20.41967347010728,
+                    "lng": 86.08893682010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "kesannager electric office",
+        "place_id": "ChIJI7VACYNwGToRLEDo-XJI74U",
+        "rating": 2,
+        "reference": "ChIJI7VACYNwGToRLEDo-XJI74U",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "136/1, 17th Main Rd, BTM 2nd Stage, Kuvempu Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560029, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9140634,
+                "lng": 77.6106798
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.91538267989272,
+                    "lng": 77.61203447989273
+                },
+                "southwest": {
+                    "lat": 12.91268302010728,
+                    "lng": 77.60933482010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "place_id": "ChIJ886-1XUVrjsRZzZ9aqQSjqo",
+        "plus_code": {
+            "compound_code": "WJ76+J7 Bengaluru, Karnataka",
+            "global_code": "7J4VWJ76+J7"
+        },
+        "rating": 0,
+        "reference": "ChIJ886-1XUVrjsRZzZ9aqQSjqo",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "M458+7W8, Badshahi Rd, Bharchhan, Odisha 754296, India",
+        "geometry": {
+            "location": {
+                "lat": 20.6581671,
+                "lng": 86.11731379999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 20.65980762989272,
+                    "lng": 86.11820842989272
+                },
+                "southwest": {
+                    "lat": 20.65710797010728,
+                    "lng": 86.11550877010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJJ7OFl41nGToR46OGu9q0pm4",
+        "rating": 0,
+        "reference": "ChIJJ7OFl41nGToR46OGu9q0pm4",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Tech Pvt Ltd, #33/5 Charzera, Ebenezer Church Rd, Narayana Reddy Layout, Electronic City Phase II, Bengaluru, Karnataka 560100, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8519201,
+                "lng": 77.67270990000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.85327637989272,
+                    "lng": 77.67400017989273
+                },
+                "southwest": {
+                    "lat": 12.85057672010728,
+                    "lng": 77.67130052010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Charzer Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103811076809835087720\">SURAJ SINGH</a>"
+                ],
+                "photo_reference": "Aap_uEDn9IIQ_CfsGQ9xCyUhIW1waseG7X0ZWfVtFp_o31HS5LI54r5zfGFjEwBtUrQjZKImD5l5l6CDrx6edk6X3m5hXKuWw6tNrL5AwyxbjM-2o8zbw3qOzPpJibvf47Rtj5d17gg0QDQTJPnROegWcTp8IddvSnfEarZcMznWw50zwj77",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJzV2aUsxtrjsRMtac9lZDt4k",
+        "plus_code": {
+            "compound_code": "VM2F+Q3 Bengaluru, Karnataka",
+            "global_code": "7J4VVM2F+Q3"
+        },
+        "rating": 5,
+        "reference": "ChIJzV2aUsxtrjsRMtac9lZDt4k",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "19, 7th Main, 3rd Cross Rd, Pappya Reddy Layout, Hongasandra, Bengaluru, Karnataka 560068, India",
+        "geometry": {
+            "location": {
+                "lat": 12.8951903,
+                "lng": 77.6332931
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.89654622989272,
+                    "lng": 77.63462342989273
+                },
+                "southwest": {
+                    "lat": 12.89384657010728,
+                    "lng": 77.63192377010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105321797943848621716\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEC9RwfqJPqSn3C486nWsY0LeI_0FRpSVImCvF9KOmztauIzfqDCaEziScvLwYE_wz0Qrh5XQs5qESEJ8X504100QCVaYobgAQnLXqiasBvlxtjJA_0c16aeWCBpn7Hcg60qdCAbWF7kPPwaLcXrtlSqz5u-AXp84SBQnxLr8WvuMhsK",
+                "width": 358
+            }
+        ],
+        "place_id": "ChIJE6x-GoQVrjsRMG_wmKoawBU",
+        "plus_code": {
+            "compound_code": "VJWM+38 Bengaluru, Karnataka",
+            "global_code": "7J4VVJWM+38"
+        },
+        "rating": 0,
+        "reference": "ChIJE6x-GoQVrjsRMG_wmKoawBU",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "11, 17th F Cross Road, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "geometry": {
+            "location": {
+                "lat": 12.9787563,
+                "lng": 77.6331015
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.98010507989272,
+                    "lng": 77.63448432989271
+                },
+                "southwest": {
+                    "lat": 12.97740542010728,
+                    "lng": 77.63178467010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Charzer Charging Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 302,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103448783555613638630\">AKANKSHA CHANDA</a>"
+                ],
+                "photo_reference": "Aap_uED-Jsl0UctH3luA-cwUpjSIh5dJ2wf6vZ49K8yHV-ddX8sWyA7af3YLXSfdfy5bQi0ziSe8c2kHN2A_ure8AJ03VAitF9cCFBhMgMTTEfTISt9S0AjUEJAHGlY2vSKVk9NRbYnyXWA_ewr7bs6A_h_iLhSaynB6xeEZHtEij6f_qG-P",
+                "width": 499
+            }
+        ],
+        "place_id": "ChIJW62R3QMXrjsRnK3JAfYqisA",
+        "plus_code": {
+            "compound_code": "XJHM+G6 Bengaluru, Karnataka",
+            "global_code": "7J4VXJHM+G6"
+        },
+        "rating": 0,
+        "reference": "ChIJW62R3QMXrjsRnK3JAfYqisA",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1070, 27th Main Rd, Putlanpalya, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+        "geometry": {
+            "location": {
+                "lat": 12.918853,
+                "lng": 77.594394
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 12.92020162989272,
+                    "lng": 77.59577732989271
+                },
+                "southwest": {
+                    "lat": 12.91750197010728,
+                    "lng": 77.59307767010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Shiva gowri",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJubmZ55gVrjsRQ1cbchT55Jg",
+        "plus_code": {
+            "compound_code": "WH9V+GQ Bengaluru, Karnataka",
+            "global_code": "7J4VWH9V+GQ"
+        },
+        "rating": 0,
+        "reference": "ChIJubmZ55gVrjsRQ1cbchT55Jg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    }
+]
